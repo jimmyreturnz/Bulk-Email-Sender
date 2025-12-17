@@ -39,7 +39,7 @@ Modify the `email_config_base` dictionary inside the `main()` function:
 
 > ⚠️ **IMPORTANT:** Always use an **App Password** for automated login to external services like Gmail via code.
 
-### 2. 📁 Change Excel File Path and Attachment Root Folder
+### 2. Change Excel File Path and Attachment Root Folder
 
 Modify the following variables at the start of the `main()` function:
 
